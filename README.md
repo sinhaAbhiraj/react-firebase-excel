@@ -16,7 +16,7 @@ Procedure for running the application on a local machine :-
 
 2.Use 'npm install' to install all the modules.
 
-3.Use 'npm start' to run the machine on your local server.
+3.Use 'npm start' to run it on your local server.
 
 
 
